@@ -28,6 +28,8 @@ public class GitTest {
 		test.getSub();
 		KolkataTest kTest = new KolkataTest();
 		kTest.getText();
+		Multiple multi = new Multiple();
+		multi.getMultiple();
 	}
 
 }
