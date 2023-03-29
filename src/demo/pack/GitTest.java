@@ -26,6 +26,8 @@ public class GitTest {
 		GitTest test = new GitTest();
 		test.getSum();
 		test.getSub();
+		KolkataTest kTest = new KolkataTest();
+		kTest.getText();
 	}
 
 }
